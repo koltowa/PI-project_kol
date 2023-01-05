@@ -1,0 +1,10 @@
+.Header {
+    //width: 100vw !important;
+    a[elementtype = item] {
+        white-space: normal; 
+        min-width: 270px;
+    }
+    div[elementtype = menu]{
+            left: -110px;
+    }
+}

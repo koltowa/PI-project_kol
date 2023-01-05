@@ -1,0 +1,1 @@
+export const replaceDefault = (val) => val === 'default' ? null : val;
